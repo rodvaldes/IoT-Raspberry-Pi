@@ -17,7 +17,7 @@ OS: Raspbian.
 apt-get update
 lsusb
 apt-get install fswebcam
-
+```
 
 
 

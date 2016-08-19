@@ -1,4 +1,4 @@
-Â# Raspberry PI 
+# Raspberry PI 
 ---
 ## Introduccion
 
@@ -11,7 +11,7 @@ OS: Raspbian.
 - sudo apt-get update
 
 
-## Configuracion Camara USB  [USING A STANDARD USB WEBCAM](https://www.raspberrypi.org/documentation/usage/webcams/)
+## [Configuracion Camara USB](https://www.raspberrypi.org/documentation/usage/webcams/)
 
 ```bash
 apt-get update
